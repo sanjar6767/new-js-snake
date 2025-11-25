@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.snake{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: red;
+    position: relative;
+}
